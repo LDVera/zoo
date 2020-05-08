@@ -1,0 +1,8 @@
+<!--
+    Este FrameLayout contendrá un fragmento dinámico con el contenido del elemento pulsado del listado
+    -->
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/framelayout_contenedor_detalle"
+    android:name="com.dv22.zoo.Fragment_lista"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" />
